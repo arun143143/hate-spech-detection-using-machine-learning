@@ -15,7 +15,7 @@ To detect hate speech in videos based on the spoken content of the videos using 
 * YouTube videos are searched and downloaded using a YouTube crawler
 * Videos are searched using the 'search by keyword' function provided by YouTube Data API 
 * Searched videos are downloaded using Pytube library
-* Each video is labeled as Normal or Hateful (Racist, Sexist)
+* Each video is labelled as Normal or Hateful (Racist, Sexist)
 
 ### Language Used:
 * Python
@@ -26,5 +26,3 @@ To detect hate speech in videos based on the spoken content of the videos using 
 * Google Cloud Speech-to-Text API
 * Google Storage Bucket
 * Jupyter Notebook
-
-Note: You can view .ipynb files using nbviewer - https://nbviewer.jupyter.org/
